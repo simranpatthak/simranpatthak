@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran pathak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate programmer . who always enjoy learning technologies . </h3>
 
 - 🔭 I’m currently working on **Nodejs**
 
